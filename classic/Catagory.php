@@ -11,8 +11,8 @@
 
 class Catagory{
     
-	public $db;
-	public $fm;
+	private $db;
+	private $fm;
 	
 	
 	public function __construct(){
@@ -27,7 +27,7 @@ class Catagory{
 			$msg = "<span style='color:red' > Catagroy must not be empty !!</span>";
 			return $msg;
 		}else{
-			$query = "INSERT INTO shop_user(catName) VALUES('$catName')";
+			$query = "INSERT INTO shop_catagory(catName) VALUES('$catName')";
 			$catinsert = $this->db->insert($query);
 			if ($catinsert){
 			$msg ="<span style='color:green'> catagory add sucessfull</span>";

@@ -1,6 +1,6 @@
 <?php include 'inc/header.php';?>
 <?php include 'inc/sidebar.php';?>
-
+<?php include '../classic/Catagory.php'; ?>
 
 <?php
 
@@ -14,7 +14,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 ?>
 
-<?php include '../classic/Catagory.php'; ?>
+
 
         <div class="grid_10">
             <div class="box round first grid">
