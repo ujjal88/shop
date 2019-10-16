@@ -7,8 +7,8 @@
 $cat = new Catagory();
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-    $catName = $_POST['catName'];
-    $catgorycheck =$cat->catInsert($catName);
+    $name = $_POST['name'];
+    $catgorycheck =$cat->catInsert($name);
 }
 
 
@@ -31,7 +31,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                     <table class="form">                    
                         <tr>
                             <td>
-                                <input type="text" name="catName" placeholder="Enter Category Name..." class="medium" />
+                                <input type="text" name="name" placeholder="Enter Category Name..." class="medium" />
                             </td>
                         </tr>
                         <tr> 

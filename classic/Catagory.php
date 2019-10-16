@@ -20,14 +20,14 @@ class Catagory{
 		$this->fm = new Format(); 
 	}
 
-	public function catInsert($catName){
-		$catName = $this->fm->validation($catName);
-		$catName = mysqli_real_escape_string($this->db->link, $catName);
-		if (empty($catName)) {
+	public function catInsert($name){
+		$name = $this->fm->validation($name);
+		$name = mysqli_real_escape_string($this->db->link, $name);
+		if (empty($name)) {
 			$msg = "<span style='color:red' > Catagroy must not be empty !!</span>";
 			return $msg;
 		}else{
-			$query = "INSERT INTO shop_catagory(catName) VALUES('$catName')";
+			$query = "INSERT INTO shop_catagory(name) VALUES('$name')";
 			$catinsert = $this->db->insert($query);
 			if ($catinsert){
 			$msg ="<span style='color:green'> catagory add sucessfull</span>";
@@ -40,7 +40,7 @@ class Catagory{
 }
 
 	public function getalllist(){
-		$query = "SELECT * FROM shop_cat ORDER BY id DESC";
+		$query = "SELECT * FROM shop_catagory ORDER BY id DESC";
 		$result = $this->db->select($query);
 		return $result;
 	}
