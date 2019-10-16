@@ -1,0 +1,821 @@
+[15-Oct-2019 15:51:17 America/New_York] PHP Notice:  Undefined index: role in /home/healulpz/krisanecl.net/admin/login.php on line 50
+[16-Oct-2019 02:00:12 America/New_York] PHP Notice:  Undefined index: role in /home/healulpz/krisanecl.net/admin/login.php on line 50
+[16-Oct-2019 02:28:28 America/New_York] PHP Fatal error:  Class 'Adminlogin' not found in /home/healulpz/krisanecl.net/admin/login.php on line 4
+[16-Oct-2019 02:30:47 America/New_York] PHP Notice:  Undefined index: REUERST_METHOD in /home/healulpz/krisanecl.net/admin/login.php on line 6
+[16-Oct-2019 02:30:52 America/New_York] PHP Notice:  Undefined index: REUERST_METHOD in /home/healulpz/krisanecl.net/admin/login.php on line 6
+[16-Oct-2019 02:32:30 America/New_York] PHP Notice:  Undefined index: REUERST_METHOD in /home/healulpz/krisanecl.net/admin/login.php on line 6
+[16-Oct-2019 02:32:38 America/New_York] PHP Notice:  Undefined index: REUERST_METHOD in /home/healulpz/krisanecl.net/admin/login.php on line 6
+[16-Oct-2019 02:34:22 America/New_York] PHP Notice:  Undefined index: REUERST_METHOD in /home/healulpz/krisanecl.net/admin/login.php on line 6
+[16-Oct-2019 02:34:26 America/New_York] PHP Notice:  Undefined index: REUERST_METHOD in /home/healulpz/krisanecl.net/admin/login.php on line 6
+[16-Oct-2019 02:34:31 America/New_York] PHP Notice:  Undefined index: REUERST_METHOD in /home/healulpz/krisanecl.net/admin/login.php on line 6
+[16-Oct-2019 02:34:34 America/New_York] PHP Notice:  Undefined index: REUERST_METHOD in /home/healulpz/krisanecl.net/admin/login.php on line 6
+[16-Oct-2019 02:41:24 America/New_York] PHP Notice:  Undefined variable: fm in /home/healulpz/krisanecl.net/admin/login.php on line 16
+[16-Oct-2019 02:41:24 America/New_York] PHP Fatal error:  Call to a member function validation() on null in /home/healulpz/krisanecl.net/admin/login.php on line 16
+[16-Oct-2019 02:41:30 America/New_York] PHP Notice:  Undefined variable: fm in /home/healulpz/krisanecl.net/admin/login.php on line 16
+[16-Oct-2019 02:41:30 America/New_York] PHP Fatal error:  Call to a member function validation() on null in /home/healulpz/krisanecl.net/admin/login.php on line 16
+[16-Oct-2019 02:42:11 America/New_York] PHP Notice:  Undefined variable: fm in /home/healulpz/krisanecl.net/admin/login.php on line 18
+[16-Oct-2019 02:42:11 America/New_York] PHP Fatal error:  Call to a member function validation() on null in /home/healulpz/krisanecl.net/admin/login.php on line 18
+[16-Oct-2019 02:42:16 America/New_York] PHP Notice:  Undefined variable: fm in /home/healulpz/krisanecl.net/admin/login.php on line 18
+[16-Oct-2019 02:42:16 America/New_York] PHP Fatal error:  Call to a member function validation() on null in /home/healulpz/krisanecl.net/admin/login.php on line 18
+[16-Oct-2019 02:42:31 America/New_York] PHP Notice:  Undefined variable: fm in /home/healulpz/krisanecl.net/admin/login.php on line 18
+[16-Oct-2019 02:42:31 America/New_York] PHP Fatal error:  Call to a member function validation() on null in /home/healulpz/krisanecl.net/admin/login.php on line 18
+[16-Oct-2019 02:54:36 America/New_York] PHP Fatal error:  Undefined class constant 'get' in /home/healulpz/krisanecl.net/admin/inc/header.php on line 68
+[16-Oct-2019 02:54:46 America/New_York] PHP Fatal error:  Undefined class constant 'get' in /home/healulpz/krisanecl.net/admin/inc/header.php on line 68
+[16-Oct-2019 03:38:50 America/New_York] PHP Parse error:  syntax error, unexpected '$' in /home/healulpz/krisanecl.net/admin/inc/header.php on line 69
+[16-Oct-2019 03:38:56 America/New_York] PHP Parse error:  syntax error, unexpected '$' in /home/healulpz/krisanecl.net/admin/inc/header.php on line 69
+[16-Oct-2019 03:40:34 America/New_York] PHP Parse error:  syntax error, unexpected '$' in /home/healulpz/krisanecl.net/admin/inc/header.php on line 69
+[16-Oct-2019 03:40:47 America/New_York] PHP Parse error:  syntax error, unexpected '$' in /home/healulpz/krisanecl.net/admin/inc/header.php on line 69
+[16-Oct-2019 04:25:30 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:25:30 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:25:30 America/New_York] PHP Warning:  include(): Failed opening '../classic/catagory.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:25:30 America/New_York] PHP Fatal error:  Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:31:08 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:31:08 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:31:08 America/New_York] PHP Warning:  include(): Failed opening '../classic/catagory.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:31:08 America/New_York] PHP Fatal error:  Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:31:13 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:31:13 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:31:13 America/New_York] PHP Warning:  include(): Failed opening '../classic/catagory.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:31:13 America/New_York] PHP Fatal error:  Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:31:37 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:31:37 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:31:37 America/New_York] PHP Warning:  include(): Failed opening '../classic/catagory.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:31:37 America/New_York] PHP Fatal error:  Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:31:47 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:31:47 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:31:47 America/New_York] PHP Warning:  include(): Failed opening '../classic/catagory.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:31:47 America/New_York] PHP Fatal error:  Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:35:54 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:35:54 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:35:54 America/New_York] PHP Warning:  include(): Failed opening '../classic/catagory.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:35:54 America/New_York] PHP Fatal error:  Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:37:04 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:37:04 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:37:04 America/New_York] PHP Warning:  include(): Failed opening '../classic/catagory.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:37:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:37:17 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:37:17 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:37:17 America/New_York] PHP Warning:  include(): Failed opening '../classic/catagory.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:37:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:43:01 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:43:01 America/New_York] PHP Warning:  include(../classic/catagory.php): failed to open stream: No such file or directory in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:43:01 America/New_York] PHP Warning:  include(): Failed opening '../classic/catagory.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/healulpz/krisanecl.net/admin/catadd.php on line 3
+[16-Oct-2019 04:43:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:45:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:45:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:46:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:46:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:46:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:49:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:51:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:52:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:54:27 America/New_York] PHP Notice:  Undefined variable: msg in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:54:29 America/New_York] PHP Notice:  Undefined variable: msg in /home/healulpz/krisanecl.net/admin/catadd.php on line 6
+[16-Oct-2019 04:55:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Catagory' not found in /home/healulpz/krisanecl.net/classic/Catagory.php:11
+Stack trace:
+#0 /home/healulpz/krisanecl.net/admin/catadd.php(5): include()
+#1 {main}
+  thrown in /home/healulpz/krisanecl.net/classic/Catagory.php on line 11
+[16-Oct-2019 04:58:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 8
+[16-Oct-2019 05:01:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Catagory' not found in /home/healulpz/krisanecl.net/admin/catadd.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 8
+[16-Oct-2019 05:02:42 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 26
+[16-Oct-2019 05:02:42 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 26
+[16-Oct-2019 05:02:42 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 26
+[16-Oct-2019 05:02:42 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 26
+[16-Oct-2019 05:02:42 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:02:50 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 26
+[16-Oct-2019 05:02:50 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 26
+[16-Oct-2019 05:02:50 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 26
+[16-Oct-2019 05:02:50 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 26
+[16-Oct-2019 05:02:50 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:02:50 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 32
+[16-Oct-2019 05:03:47 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:03:47 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:03:47 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:03:47 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:03:47 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:03:53 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:03:53 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:03:53 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:03:53 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:03:53 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:03:53 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:04:18 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:04:18 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:04:18 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:04:18 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:04:18 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:04:18 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:04:18 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 38
+[16-Oct-2019 05:04:18 America/New_York] PHP Warning:  Database::insert(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 39
+[16-Oct-2019 05:04:52 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:04:52 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:04:52 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:04:52 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:04:52 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:04:52 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:04:57 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:04:57 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:04:57 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:04:57 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:04:57 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:04:57 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:05:05 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:05:05 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:05:05 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:05:05 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:05:05 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:05:05 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:06:48 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:06:48 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:06:48 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:06:48 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:06:48 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:06:48 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:06:52 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:06:52 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:06:52 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:06:52 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:06:52 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:07:03 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:07:03 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:07:03 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:07:03 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:07:03 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:07:10 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:07:10 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:07:10 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:07:10 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:07:10 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:07:10 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:10:09 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 26
+[16-Oct-2019 05:11:15 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:11:15 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:11:15 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:11:15 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:11:15 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:11:20 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:11:20 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:11:20 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:11:20 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:11:20 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:11:20 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:11:20 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 38
+[16-Oct-2019 05:11:20 America/New_York] PHP Warning:  Database::insert(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 39
+[16-Oct-2019 05:14:29 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:14:29 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:14:29 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:14:29 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:14:29 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:14:31 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:14:31 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:14:31 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:14:31 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:14:31 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:14:31 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:14:35 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:14:35 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:14:35 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:14:35 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:14:35 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:14:35 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:14:39 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:14:39 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:14:39 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:14:39 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:14:39 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:14:39 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:17:02 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:02 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:02 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:02 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:02 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:17:02 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:17:05 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:05 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:05 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:05 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:05 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:17:05 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:17:08 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:08 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:08 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:08 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:08 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:17:08 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:17:12 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:12 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:12 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:12 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:12 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:17:12 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:17:17 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:17 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:17 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:17 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:17:17 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:17:17 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:21:45 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:21:45 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:21:45 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:21:45 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:21:45 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:21:45 America/New_York] PHP Notice:  Undefined index: catName in /home/healulpz/krisanecl.net/admin/catadd.php on line 10
+[16-Oct-2019 05:21:45 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:21:48 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:21:48 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:21:48 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:21:48 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:21:48 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:21:48 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:21:50 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:21:50 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:21:50 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:21:50 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:21:50 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:21:50 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:21:52 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:21:52 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:21:52 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:21:52 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:21:52 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:21:52 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:24:08 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:24:08 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:24:08 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:24:08 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:24:08 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:24:08 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:24:12 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:24:12 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:24:12 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:24:12 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:24:12 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:24:12 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:25:16 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:25:16 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:25:16 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:25:16 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:25:16 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:25:16 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 38
+[16-Oct-2019 05:25:16 America/New_York] PHP Warning:  Database::insert(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 39
+[16-Oct-2019 05:27:20 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:20 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:20 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:20 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:20 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:27:23 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:23 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:23 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:23 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:23 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:27:26 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:26 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:26 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:26 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:26 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:27:26 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 38
+[16-Oct-2019 05:27:26 America/New_York] PHP Warning:  Database::insert(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 39
+[16-Oct-2019 05:27:30 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:30 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:30 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:30 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:30 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:27:30 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 38
+[16-Oct-2019 05:27:30 America/New_York] PHP Warning:  Database::insert(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 39
+[16-Oct-2019 05:27:38 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:38 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:38 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:38 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:27:38 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:27:38 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 38
+[16-Oct-2019 05:27:38 America/New_York] PHP Warning:  Database::insert(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 39
+[16-Oct-2019 05:36:06 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:06 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:06 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:06 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:06 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:36:09 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:09 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:09 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:09 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:09 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:36:09 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:36:11 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:11 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:11 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:11 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:11 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:36:11 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:36:18 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:18 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:18 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:18 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:18 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:36:18 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 05:36:21 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:21 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:21 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:21 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 05:36:21 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 05:36:21 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 06:23:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Catagroy' not found in /home/healulpz/krisanecl.net/admin/catadd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 7
+[16-Oct-2019 06:23:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Catagroy' not found in /home/healulpz/krisanecl.net/admin/catadd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 7
+[16-Oct-2019 06:23:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Catagroy' not found in /home/healulpz/krisanecl.net/admin/catadd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 7
+[16-Oct-2019 06:32:22 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:32:22 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:32:22 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:32:22 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:32:22 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 06:32:23 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:32:23 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:32:23 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:32:23 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:32:23 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 06:32:23 America/New_York] PHP Notice:  Undefined variable: catName in /home/healulpz/krisanecl.net/classic/Catagory.php on line 24
+[16-Oct-2019 06:32:23 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 06:32:26 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:32:26 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:32:26 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:32:26 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:32:26 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 06:32:26 America/New_York] PHP Notice:  Undefined variable: catName in /home/healulpz/krisanecl.net/classic/Catagory.php on line 24
+[16-Oct-2019 06:32:26 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 06:32:32 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:32:32 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:32:32 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:32:32 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:32:32 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 06:32:32 America/New_York] PHP Notice:  Undefined variable: catName in /home/healulpz/krisanecl.net/classic/Catagory.php on line 24
+[16-Oct-2019 06:32:32 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 06:59:24 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:59:24 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:59:24 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:59:24 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:59:24 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 06:59:24 America/New_York] PHP Notice:  Undefined variable: catName in /home/healulpz/krisanecl.net/classic/Catagory.php on line 24
+[16-Oct-2019 06:59:24 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 06:59:36 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:59:36 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:59:36 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:59:36 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:59:36 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 06:59:38 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:59:38 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:59:38 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:59:38 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 06:59:38 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 06:59:38 America/New_York] PHP Notice:  Undefined variable: catName in /home/healulpz/krisanecl.net/classic/Catagory.php on line 24
+[16-Oct-2019 06:59:38 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:00:44 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:00:44 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:00:44 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:00:44 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:00:44 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:00:44 America/New_York] PHP Notice:  Undefined variable: catName in /home/healulpz/krisanecl.net/classic/Catagory.php on line 24
+[16-Oct-2019 07:00:44 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:00:46 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:00:46 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:00:46 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:00:46 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:00:46 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:00:53 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:00:53 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:00:53 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:00:53 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:00:53 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:00:56 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:00:56 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:00:56 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:00:56 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:00:56 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:00:56 America/New_York] PHP Notice:  Undefined variable: catName in /home/healulpz/krisanecl.net/classic/Catagory.php on line 24
+[16-Oct-2019 07:00:56 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:05:10 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:10 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:10 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:10 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:10 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:05:13 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:13 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:13 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:13 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:13 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:05:13 America/New_York] PHP Notice:  Undefined variable: fm in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:05:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function validation() on null in /home/healulpz/krisanecl.net/classic/Catagory.php:19
+Stack trace:
+#0 /home/healulpz/krisanecl.net/admin/catadd.php(11): Catagroy->catInsert('')
+#1 {main}
+  thrown in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:05:18 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:18 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:18 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:18 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:18 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:05:18 America/New_York] PHP Notice:  Undefined variable: fm in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:05:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function validation() on null in /home/healulpz/krisanecl.net/classic/Catagory.php:19
+Stack trace:
+#0 /home/healulpz/krisanecl.net/admin/catadd.php(11): Catagroy->catInsert('')
+#1 {main}
+  thrown in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:05:22 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:22 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:22 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:22 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:22 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:05:30 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:30 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:30 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:30 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:30 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:05:35 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:35 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:35 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:35 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:05:35 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:05:35 America/New_York] PHP Notice:  Undefined variable: fm in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:05:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function validation() on null in /home/healulpz/krisanecl.net/classic/Catagory.php:19
+Stack trace:
+#0 /home/healulpz/krisanecl.net/admin/catadd.php(11): Catagroy->catInsert('jsdklfsd')
+#1 {main}
+  thrown in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:06:10 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:10 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:10 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:10 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:10 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:06:13 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:13 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:13 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:13 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:13 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:06:13 America/New_York] PHP Notice:  Undefined variable: fm in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:06:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function validation() on null in /home/healulpz/krisanecl.net/classic/Catagory.php:19
+Stack trace:
+#0 /home/healulpz/krisanecl.net/admin/catadd.php(11): Catagroy->catInsert('fsdgdfg')
+#1 {main}
+  thrown in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:06:22 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:22 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:22 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:22 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:22 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:06:22 America/New_York] PHP Notice:  Undefined variable: fm in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:06:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function validation() on null in /home/healulpz/krisanecl.net/classic/Catagory.php:19
+Stack trace:
+#0 /home/healulpz/krisanecl.net/admin/catadd.php(11): Catagroy->catInsert('fsdgdfg')
+#1 {main}
+  thrown in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:06:27 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:27 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:27 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:27 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:27 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:06:30 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:30 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:30 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:30 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 6
+[16-Oct-2019 07:06:30 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:06:30 America/New_York] PHP Notice:  Undefined variable: fm in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:06:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function validation() on null in /home/healulpz/krisanecl.net/classic/Catagory.php:19
+Stack trace:
+#0 /home/healulpz/krisanecl.net/admin/catadd.php(11): Catagroy->catInsert('dsfdsfds')
+#1 {main}
+  thrown in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:06 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:06 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:06 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:06 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:06 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:09:10 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:10 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:10 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:10 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:10 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:09:10 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:09:13 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:13 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:13 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:13 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:13 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:09:13 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:09:18 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:18 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:18 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:18 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:18 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:09:18 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:09:36 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:36 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:36 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:36 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:36 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:09:39 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:39 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:39 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:39 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:39 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:09:39 America/New_York] PHP Notice:  Undefined variable: catName in /home/healulpz/krisanecl.net/classic/Catagory.php on line 24
+[16-Oct-2019 07:09:39 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:09:43 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:43 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:43 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:43 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:43 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:09:43 America/New_York] PHP Notice:  Undefined variable: catName in /home/healulpz/krisanecl.net/classic/Catagory.php on line 24
+[16-Oct-2019 07:09:43 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:09:47 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:47 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:47 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:47 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:09:47 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:09:47 America/New_York] PHP Notice:  Undefined variable: catName in /home/healulpz/krisanecl.net/classic/Catagory.php on line 24
+[16-Oct-2019 07:09:47 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:11:05 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:05 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:05 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:05 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:05 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:11:05 America/New_York] PHP Notice:  Undefined variable: catName in /home/healulpz/krisanecl.net/classic/Catagory.php on line 24
+[16-Oct-2019 07:11:05 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:11:09 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:09 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:09 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:09 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:09 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:11:09 America/New_York] PHP Notice:  Undefined variable: catName in /home/healulpz/krisanecl.net/classic/Catagory.php on line 24
+[16-Oct-2019 07:11:09 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:11:23 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:23 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:23 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:23 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:23 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:11:23 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:11:26 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:26 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:26 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:26 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:26 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:11:33 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:33 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:33 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:33 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:33 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:11:36 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:36 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:36 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:36 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:11:36 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:11:36 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:12:03 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:03 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:03 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:03 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:03 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:12:05 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:05 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:05 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:05 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:05 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:12:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Catagory::catInsert() in /home/healulpz/krisanecl.net/admin/catadd.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 11
+[16-Oct-2019 07:12:10 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:10 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:10 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:10 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:10 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:12:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Catagory::catInsert() in /home/healulpz/krisanecl.net/admin/catadd.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/healulpz/krisanecl.net/admin/catadd.php on line 11
+[16-Oct-2019 07:12:21 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:21 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:21 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:21 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:21 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:12:24 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:24 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:24 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:24 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:12:24 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:12:24 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:16:51 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:16:51 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:16:51 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:16:51 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:16:51 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:16:51 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:16:56 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:16:56 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:16:56 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:16:56 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:16:56 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:16:56 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:17:03 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:03 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:03 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:03 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:03 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:17:03 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:17:09 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:09 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:09 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:09 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:09 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:17:09 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:17:39 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:39 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:39 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:39 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:39 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:17:42 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:42 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:42 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:42 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:42 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:17:42 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:17:45 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:45 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:45 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:45 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:45 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:17:45 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:17:48 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:48 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:48 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:48 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:17:48 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:17:48 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:20:03 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:20:03 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:20:03 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:20:03 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:20:03 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:20:03 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:20:03 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 38
+[16-Oct-2019 07:20:03 America/New_York] PHP Warning:  Database::insert(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 39
+[16-Oct-2019 07:20:07 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:20:07 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:20:07 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:20:07 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:20:07 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:20:14 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:20:14 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:20:14 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:20:14 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:20:14 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:20:20 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:20:20 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:20:20 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:20:20 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:20:20 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:20:20 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:20:20 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 38
+[16-Oct-2019 07:20:20 America/New_York] PHP Warning:  Database::insert(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 39
+[16-Oct-2019 07:22:54 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:22:54 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:22:54 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:22:54 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:22:54 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:22:57 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:22:57 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:22:57 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:22:57 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:22:57 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:23:11 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:23:11 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:23:11 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:23:11 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:23:11 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:23:15 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:23:15 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:23:15 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:23:15 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:23:15 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:23:15 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:23:15 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 38
+[16-Oct-2019 07:23:15 America/New_York] PHP Warning:  Database::insert(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 39
+[16-Oct-2019 07:24:23 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:24:23 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:24:23 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:24:23 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:24:23 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:24:27 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:24:27 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:24:27 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:24:27 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:24:27 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:24:27 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:24:31 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:24:31 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:24:31 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:24:31 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:24:31 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:24:31 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:24:33 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:24:33 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:24:33 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:24:33 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:24:33 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:24:33 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:25:03 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:25:03 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:25:03 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:25:03 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:25:03 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:25:09 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:25:09 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:25:09 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:25:09 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:25:09 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:25:09 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:39:04 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:39:04 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:39:04 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:39:04 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:39:04 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:39:04 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:39:08 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:39:08 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:39:08 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:39:08 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:39:08 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:39:08 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/classic/Catagory.php on line 25
+[16-Oct-2019 07:55:39 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:55:39 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:55:39 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:55:39 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:55:39 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:55:39 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 27
+[16-Oct-2019 07:55:39 America/New_York] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 28
+[16-Oct-2019 07:57:01 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:57:01 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:57:01 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:57:01 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:57:01 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:57:01 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 27
+[16-Oct-2019 07:57:01 America/New_York] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 28
+[16-Oct-2019 07:59:28 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:59:28 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:59:28 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:59:28 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 07:59:28 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 07:59:28 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 27
+[16-Oct-2019 07:59:28 America/New_York] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 28
+[16-Oct-2019 08:07:50 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 08:07:50 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 08:07:50 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 08:07:50 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/healulpz/krisanecl.net/classic/Catagory.php on line 19
+[16-Oct-2019 08:07:50 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/healulpz/krisanecl.net/lib/Database.php on line 18
+[16-Oct-2019 08:07:50 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 27
+[16-Oct-2019 08:07:50 America/New_York] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/healulpz/krisanecl.net/lib/Database.php on line 28
