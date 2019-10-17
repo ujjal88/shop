@@ -4,6 +4,10 @@
 <?php
 
 $cat = new Catagory();
+if(isset($_GET['catdel'])){
+	$id = $_GET['catdel'];
+	$delCat = $cat->delcatId($id);
+}
 
 
 ?>
@@ -13,6 +17,12 @@ $cat = new Catagory();
         <div class="grid_10">
             <div class="box round first grid">
                 <h2>Category List</h2>
+                <?php 
+                if (isset($delCat)) {
+                    echo $delCat;
+                }
+                ?>
+
                 <div class="block">        
                     <table class="data display datatable" id="example">
 					<thead>
@@ -24,19 +34,19 @@ $cat = new Catagory();
 					</thead>
 					
 					<tbody>
-						<?php
+				<?php
 
 					$getcat = $cat->getalllist();
 					if ($getcat) {
-						$i =0;
-						while ($resultcat =$getcat->fecth_assoc() ) {
-							$i++;
+						$i = 0;
+						while ($resultcat =$getcat->fetch_assoc()) {
+						$i++;
 					
 					?>
 						<tr class="odd gradeX">
 							<td><?php echo $i; ?></td>
-							<td><?php echo $resultcat['catName']; ?></td>
-							<td><a href="">Edit</a> || <a href="">Delete</a></td>
+							<td><?php echo $resultcat['name']; ?></td>
+							<td><a href="catedit.php?catid=<?php echo $resultcat['id'];?>">Edit</a> || <a onclick="return confirm ('Are you Sure Delete')" href="?catdel=<?php echo $resultcat['id'];?>">Delete</a></td>
 						</tr>
 						
 						<?php } } ?>

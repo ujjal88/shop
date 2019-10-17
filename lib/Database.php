@@ -2,7 +2,7 @@
 
 
 <?php
-include('../config/config.php');
+require_once('../config/config.php');
 
 Class Database{
  public $host   = DB_HOST;
